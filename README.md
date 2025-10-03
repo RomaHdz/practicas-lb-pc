@@ -1,5 +1,7 @@
-# practicas-lb-pc
-# Laboratorio de Programacion para Ciberseguridad
+## **PRACTICAS - LABORATORIO DE PROGRMACIÓN PARA CIBERSEGURIDAD**
 
-En este repositorio encontraras las practicas encargadas por parte de mi profesor
-de LPC.
+---
+
+## 🔎 **DESCRIPCIÓN**
+En este repositorio encontraras las practicas elaboradas durante el curso de
+Laboratorio de Programación para Ciberseguridad.
